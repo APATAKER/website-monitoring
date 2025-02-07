@@ -1,0 +1,3 @@
+*.local
+targets.*
+!targets.yml.example

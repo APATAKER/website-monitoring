@@ -1,0 +1,25 @@
+# Example .tld file containing a list of websites
+
+# Define the first website
+website google {
+    description = "The Google search engine";
+    url = "https://www.google.com";
+}
+
+# Define the second website
+website github {
+    description = "The GitHub platform for code hosting and collaboration";
+    url = "https://www.github.com";
+}
+
+# Define the third website
+website stackoverflow {
+    description = "A Q&A site for programmers";
+    url = "https://stackoverflow.com";
+}
+
+# Define a custom website
+website apataker {
+    description = "A placeholder for a custom website";
+    url = "https://www.apataker.com";
+}
